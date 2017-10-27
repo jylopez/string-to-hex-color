@@ -1,0 +1,25 @@
+{
+  "name": "string-to-hex-color",
+  "version": "1.0.0",
+  "description": "Converts string to hex color with black/white complement",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/test.js"
+  },
+  "keywords": [
+    "string",
+    "color",
+    "text",
+    "hex"
+  ],
+  "author": "Jershon Lopez",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jylopez/string-to-hex-color.git"
+  },
+  "homepage": "https://github.com/jylopez/string-to-hex-color"
+}
